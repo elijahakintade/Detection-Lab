@@ -30,12 +30,12 @@ By achieving these objectives, the SOC will benefit from enhanced operational ef
 
 <img width="971" alt="sysmon" src="https://github.com/elijahakintade/Detection-Lab/assets/68931398/bedf25c2-0fc8-4a6f-8fa9-c897fd4e6a1d"> *sysmon installed on windows user*
 
+![cassandra running](https://github.com/elijahakintade/Detection-Lab/assets/68931398/0886ae5f-0a2e-420a-8aa3-89890716f21f) *Cassandra active and running*
 
+<img width="1440" alt="mimkatz exe" src="https://github.com/elijahakintade/Detection-Lab/assets/68931398/398a1d0b-565d-47ee-ac64-7f0c467b82d2"> *mimikatz execution on windows user using PWSH*
 
-drag & drop screenshots here or use imgur and reference them using imgsrc
+![mimikatz](https://github.com/elijahakintade/Detection-Lab/assets/68931398/a3d3e56c-fae4-41b6-a2e3-dcde4217ce4c) *Wazuh detecting mikikatz event
 
-Every screenshot should have some text explaining what the screenshot is about.
+![shuffing with alert](https://github.com/elijahakintade/Detection-Lab/assets/68931398/c34a786b-c842-4dea-a215-2fcafd4be250) *Shuffle*
 
-Example below.
-
-*Ref 1: Network Diagram*
+![workflow execution argument](https://github.com/elijahakintade/Detection-Lab/assets/68931398/fb116575-365f-4abc-8d0d-e72b03878b3e) *workflow execution on Shuffle*
