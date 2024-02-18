@@ -20,6 +20,8 @@ By achieving these objectives, the SOC will benefit from enhanced operational ef
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
 
 ## Steps
+![lab](https://github.com/elijahakintade/SOC-Automation-Lab/assets/68931398/1f10254b-97d1-4ec1-8045-cc56083eb30b) *Network Diagram*
+
 ![wazuh](https://github.com/elijahakintade/Detection-Lab/assets/68931398/551ce1ea-e431-4610-b156-c03c87f20224) *Wazuh Installation on ubuntu machine*
 
 ![wazuh Event ](https://github.com/elijahakintade/Detection-Lab/assets/68931398/913c833c-0e3d-4d7c-93b3-ba87713df3b5) *Wazuh Dashbord*
