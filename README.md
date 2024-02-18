@@ -15,9 +15,9 @@ By achieving these objectives, the SOC will benefit from enhanced operational ef
 
 ### Tools Used
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- Wazuh is an open-source security monitoring platform used for threat detection.
+- TheHive is an open-source incident response platform that helps security teams manage and investigate security incidents
+- Shuffle: A general purpose security automation platform
 
 ## Steps
 ![lab](https://github.com/elijahakintade/SOC-Automation-Lab/assets/68931398/1f10254b-97d1-4ec1-8045-cc56083eb30b) *Network Diagram*
