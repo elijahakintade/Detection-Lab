@@ -32,7 +32,7 @@ By achieving these objectives, the SOC will benefit from enhanced operational ef
 
 ![cassandra running](https://github.com/elijahakintade/Detection-Lab/assets/68931398/0886ae5f-0a2e-420a-8aa3-89890716f21f) *Cassandra active and running*
 
-<img width="1440" alt="mimkatz exe" src="https://github.com/elijahakintade/Detection-Lab/assets/68931398/398a1d0b-565d-47ee-ac64-7f0c467b82d2"> *mimikatz execution on windows user using PWSH*
+<img width="996" alt="mimkatz exe" src="https://github.com/elijahakintade/Detection-Lab/assets/68931398/c0a4f3f6-c70d-41b6-9860-808d26e2fbf7"> *mimikatz execution on windows user using PWSH*
 
 ![mimikatz](https://github.com/elijahakintade/Detection-Lab/assets/68931398/a3d3e56c-fae4-41b6-a2e3-dcde4217ce4c) *Wazuh detecting mikikatz event
 
