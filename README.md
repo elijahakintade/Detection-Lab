@@ -1,4 +1,4 @@
-# Detection Lab
+# SOC Automation Lab
 
 ## Objective
 
